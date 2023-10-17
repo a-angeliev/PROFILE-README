@@ -3,16 +3,13 @@
 <a href="https://www.linkedin.com/in/atanas-angeliev/"><img alt="LinkedIn" src="https://img.shields.io/badge/atanas-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
 <a href="mailto:atanas.angeliev1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atanas.angeliev1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-### About me:
+### About me
 
 -   🛠 &nbsp; I’m currently working on [Shoecommerce](https://github.com/a-angeliev/Shoecommerce)
 -   🌱 &nbsp; I’m currently learning node.js
 -   👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-<!-- - 📫 &nbsp; How to reach me: atanas.angeliev1@gmail.com or  -->
 
- <!-- <h2 align="left">Tools & Technologies ⚡</h2> -->
-
-### Tools & Technologies ⚡:
+### Tools & Technologies ⚡
 
  <p align="left">
   <a href="">
@@ -20,7 +17,7 @@
   </a>
 </p>
 
-### 🧑‍🚀 Portfolio Porjects
+### Portfolio Porjects
 
 <br />
   <table>
@@ -60,3 +57,5 @@
     </tbody>
   </table>
   <br />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-angeliev&theme=dark" alt="GitHub Streak" /></a>
