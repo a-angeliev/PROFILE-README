@@ -52,7 +52,7 @@
                     </a>
                 </p>
             </td>
-            <td>12.2022</td>
+            <td align="center" >12/2022</td>
         </tr>
     </tbody>
   </table>
