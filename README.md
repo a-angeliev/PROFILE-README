@@ -20,8 +20,7 @@
   </a>
 </p>
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+### 🧑‍🚀 Open Source Projects
 
   <br />
   <table>
@@ -58,4 +57,3 @@
     </tbody>
   </table>
   <br />
-</details>
