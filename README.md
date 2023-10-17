@@ -10,9 +10,12 @@
 -   👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 <!-- - 📫 &nbsp; How to reach me: atanas.angeliev1@gmail.com or  -->
 
- <h2 align="left">Tools & Technologies ⚡</h2>
+ <!-- <h2 align="left">Tools & Technologies ⚡</h2> -->
+
+### Tools & Technologies ⚡:
+
  <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,html,css,js,py,react,nodejs,flask,django,postgres,postman,tensorflow,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,flask,django,postgres,postman,tensorflow,git,vscode" />
   </a>
 </p>
