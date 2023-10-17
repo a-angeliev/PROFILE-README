@@ -42,18 +42,18 @@
             </td>
             <td align="center">10/2023</td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td align="center">2</td>
-	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
+	        <td><a href="https://github.com/a-angeliev/Advent-Of-Code"><b>Advent of Code</b></a></td>
             <td>
                 <p align="left">
                     <a href="">
-                        <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
+                        <img src="https://skillicons.dev/icons?i=py" />
                     </a>
                 </p>
             </td>
-            <td>08.2022</td>
-        </tr> -->
+            <td>12.2022</td>
+        </tr>
     </tbody>
   </table>
   <br />
