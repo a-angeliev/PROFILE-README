@@ -54,6 +54,18 @@
             </td>
             <td align="center" >12/2022</td>
         </tr>
+        <tr>
+            <td align="center">3</td>
+	        <td><a href="https://github.com/a-angeliev/Advent-Of-Code"><b>Thesis APORS</b></a></td>
+            <td>
+                <p align="left">
+                    <a href="">
+                        <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+                    </a>
+                </p>
+            </td>
+            <td align="center" >05/2023</td>
+        </tr>
     </tbody>
   </table>
   <br />
