@@ -40,7 +40,7 @@
                     </a>
                 </p>
             </td>
-            <td>10/2023</td>
+            <td align="center">10/2023</td>
         </tr>
         <!-- <tr>
             <td align="center">2</td>
