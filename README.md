@@ -42,7 +42,7 @@
             </td>
             <td>10/2023</td>
         </tr>
-        <tr>
+        <!-- <tr>
             <td align="center">2</td>
 	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
             <td>
@@ -53,9 +53,10 @@
                 </p>
             </td>
             <td>08.2022</td>
-        </tr>
+        </tr> -->
     </tbody>
   </table>
   <br />
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-angeliev&theme=dark" alt="GitHub Streak" /></a>
+  
+[![](https://visitcount.itsvg.in/api?id=a-angeliev&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-angeliev&theme=dark" alt="GitHub Streak" /></a> -->
