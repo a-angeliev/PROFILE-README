@@ -44,7 +44,7 @@
         </tr>
         <tr>
             <td align="center">2</td>
-	        <td><a href="https://github.com/a-angeliev/Advent-Of-Code"><b>Advent of Code</b></a></td>
+	        <td><a href="https://github.com/a-angeliev/Advent-Of-Code"><b>Advent of Code 2022</b></a></td>
             <td>
                 <p align="left">
                     <a href="">
