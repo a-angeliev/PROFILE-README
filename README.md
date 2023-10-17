@@ -19,10 +19,6 @@
 
 ### Portfolio Porjects
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=a-angeliev&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
-
 <br />
   <table>
     <thead align="center">
@@ -62,9 +58,7 @@
   </table>
   <br />
 
-[![](https://visitcount.itsvg.in/api?id=a-angeliev&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-angeliev&theme=dark" alt="GitHub Streak" /></a> -->
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=a-angeliev&label=Profile%20Views&color=1&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=a-angeliev&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
