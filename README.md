@@ -1,8 +1,6 @@
 ## Hey 👋, I'm Atanas
 
 <a href="https://www.linkedin.com/in/atanas-angeliev/"><img alt="LinkedIn" src="https://img.shields.io/badge/atanas-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/ismaelmiah/"><img alt="LinkedIn" src="https://img.shields.io/badge/ismaelmiah-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-
 <a href="mailto:atanas.angeliev1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atanas.angeliev1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 ### About me:
