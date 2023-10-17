@@ -34,7 +34,7 @@
     </thead>
     <tbody>
         <tr>
-            <td alight="center">1</td>
+            <td align="center">1</td>
 	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
             <td>
                 <p align="left">
@@ -46,8 +46,8 @@
             <td>10/2023</td>
         </tr>
         <tr>
-            <td alight="center">2</td>
-	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>HoHo</b></a></td>
+            <td align="center">2</td>
+	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
             <td>
                 <p align="left">
                     <a href="">
