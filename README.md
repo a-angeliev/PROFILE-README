@@ -20,40 +20,42 @@
   </a>
 </p>
 
-### 🧑‍🚀 Open Source Projects
+### 🧑‍🚀 Portfolio Porjects
 
-  <br />
+<br />
   <table>
     <thead align="center">
       <tr border: none;>
+        <td><b>⚙️ Rank</b></td>
         <td><b>💻 Projects</b></td>
         <td><b>🐛 Technologies</b></td>
-        <td><b>🔔 Start date</b></td>
+        <td><b>🔔 Ending date</b></td>
       </tr>
     </thead>
     <tbody>
-     <tr>
-	      <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
-        <td>
-            <p align="left">
-                <a href="">
-                     <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
-                </a>
-            </p>
-        </td>
-        <td>08.2022</td>
-      </tr>
-    <tr>
-	      <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
-        <td>
-            <p align="left">
-                <a href="">
-                     <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
-                </a>
-            </p>
-        </td>
-        <td>08.2022</td>
-      </tr>
+        <tr>
+            <td>1</td>
+	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
+            <td>
+                <p align="left">
+                    <a href="">
+                        <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
+                    </a>
+                </p>
+            </td>
+            <td>10/2023</td>
+        </tr>
+        <tr>
+	          <!-- <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
+            <td>
+                <p align="left">
+                    <a href="">
+                        <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
+                    </a>
+                </p>
+            </td>
+            <td>08.2022</td> -->
+        </tr>
     </tbody>
   </table>
   <br />
