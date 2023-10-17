@@ -19,3 +19,31 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py,react,nodejs,flask,django,postgres,postman,tensorflow,git,vscode" />
   </a>
 </p>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🐛 Technologies</b></td>
+        <td><b>🔔 Start date</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
+        <td><img alt="React" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png"/><img alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuwVCYrhocktzr0c3qj90c0rJ3VKN5mjJHsmlF40&s"/><img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/></td>
+        <td>08.2022</td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
+        <td><img alt="React" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png"/><img alt="Flask" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuwVCYrhocktzr0c3qj90c0rJ3VKN5mjJHsmlF40&s"/><img alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/></td>
+        <td>08.2022</td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
