@@ -31,19 +31,31 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center">1</td>
+          <td align="center">1</td>
 	        <td><a href="https://github.com/a-angeliev/Shoecommerce"><b>Shoecommerce</b></a></td>
-            <td>
-                <p align="left">
-                    <a href="">
-                        <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
-                    </a>
-                </p>
-            </td>
-            <td align="center">10/2023</td>
+          <td>
+            <p align="left">
+              <a href="">
+                <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
+              </a>
+            </p>
+          </td>
+          <td align="center">10/2023</td>
         </tr>
         <tr>
-            <td align="center">2</td>
+          <td align="center">2</td>
+	        <td><b>Trivia</b> <a href="https://github.com/a-angeliev/Trivia-client"><b>client</b></a> / <a href="https://github.com/a-angeliev/Trivia-server"><b>server</b></a></td>
+          <td>
+            <p align="left">
+              <a href="">
+                <img src="https://skillicons.dev/icons?i=react,flask,postgres" />
+              </a>
+            </p>
+          </td>
+          <td align="center">11/2023</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
 	        <td><a href="https://github.com/a-angeliev/Advent-Of-Code"><b>Advent of Code 2022</b></a></td>
             <td>
                 <p align="left">
@@ -55,7 +67,7 @@
             <td align="center" >12/2022</td>
         </tr>
         <tr>
-            <td align="center">3</td>
+            <td align="center">4</td>
 	        <td><a href="https://github.com/a-angeliev/Advent-Of-Code"><b>Thesis APORS</b></a></td>
             <td>
                 <p align="left">
