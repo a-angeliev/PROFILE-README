@@ -5,8 +5,8 @@
 
 ### About me
 
--   🛠 &nbsp; I’m currently working on [Shoecommerce](https://github.com/a-angeliev/Shoecommerce)
--   🌱 &nbsp; I’m currently learning node.js
+-   🛠 &nbsp; I’m currently working on [Igrite na grada](https://igritenagrada.com/)
+-   🌱 &nbsp; I’m currently working with node.js
 -   👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### Tools & Technologies ⚡
@@ -32,7 +32,7 @@
     <tbody>
         <tr>
           <td align="center">1</td>
-	        <td><a href="https://github.com/a-angeliev/Urban-Code"><b>Urban code</b></a></td>
+	        <td><a href="https://github.com/a-angeliev/Urban-Code"><b>Igrite na grada</b></a></td>
           <td>
             <p align="left">
               <a href="">
@@ -95,6 +95,3 @@
   <br />
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=a-angeliev&theme=dark" alt="GitHub Streak" /></a> -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=a-angeliev&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
